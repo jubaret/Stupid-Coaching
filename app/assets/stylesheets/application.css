@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+
+@import url('/app/assets/stylesheets/questions.scss');
+@import url('/app/assets/stylesheets/answers.scss');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body h1 h2 h3 {
+      font-family: 'Roboto', sans-serif;
+}
